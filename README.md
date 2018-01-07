@@ -3,6 +3,9 @@ Depending on which party the president is from, the topic, tone, style, vocabula
 
 ## Data Set
 ### General Description
+Corpus available at: http://www.thegrammarlab.com/
+It contains data scraped from archives of speeches made by U.S. Presidents from George Washington to Barack Obama. The total word count for the corpus is about 3.5 million words. The files are in folders organized by President, making it relatively easy to do comparisons of individuals, by party, or by period. The precise breakdown by President is included in the table below, and there is a link for you to download the corpus at the end of this post.
+
 797 speech scripts from
 45% Republican
 55% Democrat
